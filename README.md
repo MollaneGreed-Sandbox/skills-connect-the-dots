@@ -8,7 +8,9 @@
 -->
 
 # Connect the dots in a GitHub repository
+This site is now available at [https://mollanegreed-sandbox.github.io/skills-connect-the-dots/](https://mollanegreed-sandbox.github.io/skills-connect-the-dots/)
 
+***
 _Useful tips when navigating through your repository._
 
 </header>
@@ -17,6 +19,7 @@ _Useful tips when navigating through your repository._
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+
 
 ## Finish
 
